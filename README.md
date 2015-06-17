@@ -1,3 +1,3 @@
-# HireForms Select List
+# HireForms Static List
 
-React Component representing a select list element.
+React Component representing a static list element.
