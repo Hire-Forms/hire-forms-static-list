@@ -2,4 +2,3 @@
 * Add changelog
 * Use Browserify instead of Watchify to be able to derequire
 * Change README to static list version
-
