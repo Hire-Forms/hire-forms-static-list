@@ -8,4 +8,4 @@ node_modules/.bin/watchify src/index.jsx \
   --outfile build/index.js \
   --standalone HireFormsStaticList \
   --transform [ babelify --plugins object-assign ] \
-  --verbose
+  --verbose | derequire > build/index.js
